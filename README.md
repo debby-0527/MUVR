@@ -1,4 +1,4 @@
-# [NeurIPS 2025] MUVR:A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence
+# [NeurIPS 2025] MUVR: A Multi-Modal Untrimmed Video Retrieval Benchmark with Multi-Level Visual Correspondence
 
 MUVR is a benchmark codebase for Multi-Modal Untrimmed Video Retrieval. It aims to evaluate the performance of various Video-Language Models (VLMs) on video retrieval tasks, supporting multiple retrieval modes (video, text, video+text) and tag-based filtering mechanisms.
 
@@ -108,3 +108,4 @@ bash scripts/3_muvr_filter.sh
   year={2025}
 }
 ```
+
